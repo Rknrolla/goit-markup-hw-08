@@ -1,0 +1,36 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+}
+.icon-logo1 {
+  width: 57px;
+  height: 32px;
+  background-position: 0 0;
+}
+.icon-logo2 {
+  width: 57px;
+  height: 32px;
+  background-position: -96px 0;
+}
+.icon-logo3 {
+  width: 57px;
+  height: 32px;
+  background-position: -192px 0;
+}
+.icon-logo4 {
+  width: 57px;
+  height: 32px;
+  background-position: -288px 0;
+}
+.icon-logo5 {
+  width: 57px;
+  height: 32px;
+  background-position: -384px 0;
+}
+.icon-logo6 {
+  width: 57px;
+  height: 32px;
+  background-position: -480px 0;
+}
+
